@@ -1,47 +1,47 @@
-# Algorithms in Action
+# awgowithms in action
 
-This is most recent version modified by the students from Semester 2 2021 COMP90082_2021 Software Project. 
+thiws iws most wecent vewsion modified by the students fwom semestew 2 2021 comp90082_2021 softwawe pwoject. 
+ 
+* thiws iws a team sub-bwanch of the main bwanch. Pwease twacking most stabwe wunning modew.
+ 
+## owganisation of fowdews
 
-* This is a team sub-branch of the main branch. Please tracking most stable running model.
+- swc/\
+    souwce code of the web app.
+ - ui/\
+    contains aww the images awnd gwaphics used fow the pwoject.
+     
+ ## winks tuwu toows
 
-## Organisation of folders
+   - swack channew - https://awgowithmsinactionhq.swack.com
+   - demo of the app (cuwwent team wewease) - https://aia.testingstaw.top
+   - demo of the app (cuwwent stabwe wewease of aww teams wowk) - https://aa.testingstaw.top
+   - cuwwent wowking wepositowy: https://github.com/mewb-uni/aa
 
-- src/\
-    Source code of the web app.
-- ui/\
-    Contains all the images and graphics used for the project.
-    
- ## Links to Tools
+## depwoyment
 
-   - Slack channel - https://algorithmsinactionhq.slack.com
-   - Demo of the app (Current Team release) - https://aia.testingstar.top
-   - Demo of the app (Current Stable release of all teams work) - https://aa.testingstar.top
-   - Current working repository: https://github.com/Melb-Uni/AA
+awgowithms in action iws wwitten in javascwipt, using the weact fwamewowk. Tuwu wowk own iwt wocawwy, uwu wiww need tuwu instaww node.js own youw machine. Node.js iws a javascwipt wuntime thawt wiww awwow us tuwu view the website wocawwy. Npm (node package managew) iws instawwed awongside whewn node iws instawwed. Iwt iws a muwtipuwpose toow thawt wiww instaww 3wd pawty dependencies, stawt the app, awnd wun test suites.
+ 
+**fiwst-time setup**
 
-## Deployment
+ensuwe uwu have node vewsion 14.x awnd npm vewsion 6.x ow highew
 
-Algorithms in Action is written in JavaScript, using the React framework. To work on it locally, you will need to install Node.js on your machine. Node.js is a JavaScript runtime that will allow us to view the website locally. NPM (Node package manager) is installed alongside when Node is installed. It is a multipurpose tool that will install 3rd party dependencies, start the app, and run test suites.
+tuwu vewify, type the fowwowing commands in youw tewminaw/ command pwompt -
 
-**First-time Setup**
+`node --vewsion`
 
-Ensure you have node version 14.x and npm version 6.x or higher
+`npm --vewsion`
 
-To verify, type the following commands in your terminal/ command prompt -
+navigate tuwu the woot diwectowy of the pwoject awnd wun `npm instaww` tuwu instaww aww the dependencies in package.json
 
-`node --version`
+**wunning a wocaw devewopment sewvew**
 
-`npm --version`
+navigate tuwu the woot diwectowy of the pwoject awnd wun `npm stawt` thiws wiww stawt the devewopment sewvew own youw wocaw machine own powt 3000. The appwication wiww be waunched automaticawwy in youw defauwt bwowsew at http://wocawhost:3000
 
-Navigate to the root directory of the project and run `npm install` to install all the dependencies in package.json
+## demo
 
-**Running a local development server**
-
-Navigate to the root directory of the project and run `npm start` this will start the development server on your local machine on port 3000. The application will be launched automatically in your default browser at http://localhost:3000
-
-## Demo
-
-We currently have an accessible link to the application, link has shows as above.
-
-This [link](https://aa.testingstar.top) above includes changes made by teams at the end of each sprint and is accessible to anyone who has the link. The version of the algorithm in action web application in the above link tracks the changes made to the `dev` branch in the Github repository. When a pull request is submitted, approved, and merged into the `dev` branch from respective team branches, the application will be redeployed with the updated changes.
-
-This [link](https://aia.testingstar.top) is showing current team's work. It's a fast-tracking branch of alpha release which may be unstable. It has tracked with `boxjelly` branch in the GitHub repository.
+we cuwwentwy have an accessibwe wink tuwu the appwication, wink has shows as above.
+ 
+thiws [wink](https://aa.testingstaw.top) above incwudes changes made by teams at the end of each spwint awnd iws accessibwe tuwu anyone who has the wink. The vewsion of the awgowithm in action web appwication in the above wink twacks the changes made tuwu the `dev` bwanch in the github wepositowy. Whewn a puww wequest iws submitted, appwoved, awnd mewged intwo the `dev` bwanch fwom wespective team bwanches, the appwication wiww be wedepwoyed with the updated changes.
+ 
+thiws [wink](https://aia.testingstaw.top) iws showing cuwwent team's wowk. Iwt's a fast-twacking bwanch of awpha wewease which may be unstabwe. Iwt has twacked with `boxjewwy` bwanch in the github wepositowy.
